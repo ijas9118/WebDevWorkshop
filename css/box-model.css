@@ -1,0 +1,13 @@
+* {
+    font-size: larger;
+    padding: 0;
+    margin: 0;
+}
+.box-one {
+    background-color: salmon;
+    border: 0px solid rebeccapurple;
+}
+.box-two {
+    background-color: cadetblue;
+    border: 0px solid darkblue;
+}
